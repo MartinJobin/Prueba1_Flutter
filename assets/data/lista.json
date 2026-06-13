@@ -1,0 +1,156 @@
+[
+  {
+      "id": "crash",
+      "name": "Crash Bandicoot",
+      "description": "El protagonista principal de la serie. Es un bandicoot modificado genéticamente que lucha contra los villanos para salvar su hogar, las Islas Wumpa.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/crash.png",
+      "atributos": [
+          "Velocidad",
+          "Salto",
+          "Fuerza"
+      ]
+  },
+  {
+      "id": "coco",
+      "name": "Coco Bandicoot",
+      "description": "La hermana de Crash y también una hábil científica e ingeniera. A menudo acompaña a Crash en sus aventuras.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/coco.png",
+      "atributos": [
+          "Inteligencia",
+          "Habilidad en computadoras",
+          "Acrobacias"
+      ]
+  },
+  {
+      "id": "neo-cortex",
+      "name": "Dr. Neo Cortex",
+      "description": "El principal antagonista de la serie. Es un malvado científico que busca conquistar las Islas Wumpa y destruir a Crash Bandicoot.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/cortex.webp",
+      "atributos": [
+          "Inteligencia",
+          "Maldad",
+          "Habilidades científicas"
+      ]
+  },
+  {
+      "id": "tiny-tiger",
+      "name": "Tiny Tiger",
+      "description": "Un fuerte y malvado tigre que actúa como secuaz de Dr. Neo Cortex. Es uno de los enemigos más fuertes de Crash.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/tiny.webp",
+      "atributos": [
+          "Fuerza",
+          "Agresividad",
+          "Resistencia"
+      ]
+  },
+  {
+      "id": "polar",
+      "name": "Polar",
+      "description": "El fiel oso polar que es amigo de Crash Bandicoot. A menudo ayuda a Crash en sus aventuras.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/polar.png",
+      "atributos": [
+          "Velocidad",
+          "Agilidad",
+          "Lealtad"
+      ]
+  },
+  {
+      "id": "dingodile",
+      "name": "Dingodile",
+      "description": "Un híbrido entre un dingo y un cocodrilo. Anteriormente era uno de los villanos, pero ahora lucha del lado de Crash y sus amigos.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/dingodile.webp",
+      "atributos": [
+          "Fuego",
+          "Habilidad acuática",
+          "Resistencia al calor"
+      ]
+  },
+  {
+      "id": "pura",
+      "name": "Pura",
+      "description": "El tigre blanco mascota de Coco Bandicoot. A menudo acompaña a Coco en sus aventuras.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/pura.webp",
+      "atributos": [
+          "Velocidad",
+          "Agilidad",
+          "Saltos precisos"
+      ]
+  },
+  {
+      "id": "crunch",
+      "name": "Crunch Bandicoot",
+      "description": "Un bandicoot modificado genéticamente que fue creado por el Dr. Neo Cortex. Después de ser liberado del control de Cortex, ahora lucha del lado de Crash.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/crunch.png",
+      "atributos": [
+          "Fuerza sobrehumana",
+          "Resistencia",
+          "Habilidades de lucha"
+      ]
+  },
+  {
+      "id": "n-gin",
+      "name": "Dr. N. Gin",
+      "description": "Un científico loco y secuaz del Dr. Neo Cortex. Tiene una cabeza mecánica y usa una silla voladora.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/n.webp",
+      "atributos": [
+          "Genio científico",
+          "Ingeniería",
+          "Armas avanzadas"
+      ]
+  },
+  {
+      "id": "komodo-bros",
+      "name": "Komodo Bros",
+      "description": "Una pareja de hermanos komodo que actúan como secuaces de Dr. Neo Cortex. Luchan en equipo para detener a Crash.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/Komodo.webp",
+      "atributos": [
+          "Trabajo en equipo",
+          "Combate con espadas",
+          "Velocidad"
+      ]
+  },
+  {
+      "id": "papu-papu",
+      "name": "Papu Papu",
+      "description": "El líder de la tribu Papu Papu. Es un jefe en la primera isla y lucha contra Crash en una batalla de saltos.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/papu.webp",
+      "atributos": [
+          "Sabiduría tribal",
+          "Fuerza física",
+          "Conocimiento del terreno"
+      ]
+  },
+  {
+      "id": "pinstripe",
+      "name": "Pinstripe Potoroo",
+      "description": "Un potoroo con una afición por las armas de fuego y el juego. Actúa como jefe en la segunda isla.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/pinstripe.webp",
+      "atributos": [
+          "Habilidad en el manejo de armas",
+          "Inteligencia",
+          "Determinación"
+      ]
+  },
+  {
+      "id": "n-tropy",
+      "name": "N. Tropy",
+      "description": "Un malvado científico y maestro del tiempo. Es un villano formidable que utiliza su manipulación del tiempo para enfrentar a Crash.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/tropy.webp",
+      "atributos": [
+          "Control del tiempo",
+          "Inteligencia",
+          "Ambición"
+      ]
+  },
+  {
+      "id": "fake-crash",
+      "name": "Fake Crash",
+      "description": "Una versión falsa de Crash Bandicoot. Aparece en algunos juegos como personaje de broma.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/fcrash.webp",
+      "atributos": [
+          "Imitador",
+          "Inocente",
+          "Chistoso"
+      ]
+  }
+]

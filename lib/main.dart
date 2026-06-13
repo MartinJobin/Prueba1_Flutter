@@ -27,7 +27,8 @@ class Cuerpo extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Examen"),
-        // BOTÓN DE INFORMACIÓN EN LA BARRA SUPERIOR
+        backgroundColor: Colors.blue,     
+        foregroundColor: Colors.white,
         actions: [
           IconButton(
             icon: const Icon(Icons.info),
@@ -43,7 +44,7 @@ class Cuerpo extends StatelessWidget {
                       children: [
                         Text("Título: Ejercicios de Programación"),
                         SizedBox(height: 5),
-                        Text("Programador: Juan Paz"),
+                        Text("Programador: Martin Arévalo"),
                         SizedBox(height: 5),
                         Text("Carrera: Desarrollo de Software"),
                       ],
